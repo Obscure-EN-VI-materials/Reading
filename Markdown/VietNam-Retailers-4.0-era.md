@@ -44,6 +44,14 @@ VinID, the developer of the shopping technology, said Scan & Go is just the firs
 
 **D.** mention the difference between traditional and modern retailers. 
 
+<details><summary>Trả lời</summary>
+<p>
+
+TBD
+
+</p>
+</details>
+
 **Question 3**: The word **"they"** in paragraph 2 refers to
 
 **A.** goods
@@ -53,6 +61,14 @@ VinID, the developer of the shopping technology, said Scan & Go is just the firs
 **C.** customers
 
 **D.** stores
+
+<details><summary>Trả lời</summary>
+<p>
+
+TBD
+
+</p>
+</details>
 
 **Question 4**: The word **"enterprises"** in paragraph 3 is closest in meaning to 
 
@@ -64,6 +80,14 @@ VinID, the developer of the shopping technology, said Scan & Go is just the firs
 
 **D.** governments
 
+<details><summary>Trả lời</summary>
+<p>
+
+TBD
+
+</p>
+</details>
+
 **Question 5**: The word **"luring"** in paragraph 5 (?) is closest in meaning to
 
 **A.** agreeing
@@ -73,6 +97,14 @@ VinID, the developer of the shopping technology, said Scan & Go is just the firs
 **C.** tempting
 
 **D.** understanding
+
+<details><summary>Trả lời</summary>
+<p>
+
+TBD
+
+</p>
+</details>
 
 **Question 6**: Which of the following is NOT true, according to the passage? 
 
@@ -84,6 +116,14 @@ VinID, the developer of the shopping technology, said Scan & Go is just the firs
 
 **D.** Ordering goods and door delivery are the shortcomings of the technology.
 
+<details><summary>Trả lời</summary>
+<p>
+
+TBD
+
+</p>
+</details>
+
 **Question 7**: Which of the following can be inferred from paragraph 4?
 
 **A.** Scan and Go is owned by Vingroup.
@@ -93,3 +133,11 @@ VinID, the developer of the shopping technology, said Scan & Go is just the firs
 **C.** Check-out Free will be used soon in Vietnam.
 
 **D.** Vinmart and Vinmart Plus belong to Hoa Phat group.
+
+<details><summary>Trả lời</summary>
+<p>
+
+TBD
+
+</p>
+</details>
