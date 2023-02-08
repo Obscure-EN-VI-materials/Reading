@@ -138,6 +138,7 @@ luring = tempting: dụ (khách hàng)
 <p>
 
 **Đáp án D**
+
 Theo câu 3 đoạn 2:
 > However, in general, technology brings two major features: shortening the time for payment and ordering products from a distance and door delivery.
 
