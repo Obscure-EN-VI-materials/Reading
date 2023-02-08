@@ -8,5 +8,5 @@ If the copyright is ambiguous, the material will fall under Fair Use:
 
 > Under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright statute that might otherwise be infringing.
 
-> If your copyrighted material appears on this repository and you disagree with our assessment that it constitutes "fair use", [create an issue](https://github.com/Obscure-EN-VI-materials/Reading/issues/new/choose) or email us.
+> If your copyrighted material appears on this repository and you disagree with our assessment that it constitutes "fair use", [create an issue](https://github.com/Obscure-EN-VI-materials/Reading/issues/new/choose) or [email us](mailto:phanhoang1366@gmail.com).
 
