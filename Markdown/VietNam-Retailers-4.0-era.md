@@ -54,6 +54,8 @@ Theo nguồn [Vietnamnet](https://vietnamnet.vn/en/retailers-in-vietnam-gear-up-
 Câu đầu của đoạn 1:
 > Một nghiên cứu được thực hiện bởi Deloitte Consulting cho thấy 70% quyết định mua hàng được thực hiện tại các cửa hàng.
 
+> A study conducted by Deloitte Consulting showed that 70 percent of purchasing decisions are made in stores.
+
 </p>
 </details>
 
@@ -73,7 +75,11 @@ Câu đầu của đoạn 1:
 **Đáp án C**
 
 Câu 2 đoạn 2:
+> Customers like to spend money, but **they** find it a nightmare to queue up for payment.
+
 > Khách hàng thích tiêu tiền, nhưng **họ** thấy việc xếp hàng thanh toán là một cơn ác mộng.
+
+Họ ở đây là khách hàng.
 
 </p>
 </details>
@@ -132,6 +138,12 @@ luring = tempting: dụ (khách hàng)
 <p>
 
 **Đáp án D**
+Theo câu 3 đoạn 2:
+> However, in general, technology brings two major features: shortening the time for payment and ordering products from a distance and door delivery.
+
+> Tuy nhiên, nhìn chung, công nghệ mang lại hai đặc điểm lớn là rút ngắn thời gian thanh toán và đặt hàng từ xa và giao hàng tận nơi.
+
+Câu D nói rằng: `Đặt hàng và giao hàng tận nơi là những bất cập của công nghệ.` là hoàn toàn sai, trong khi nó là 2 đặc điểm lớn của công nghệ.
 
 </p>
 </details>
@@ -150,6 +162,11 @@ luring = tempting: dụ (khách hàng)
 <p>
 
 **Đáp án B**
+
+Câu 1 đoạn 4: 
+> Most recently, VinMart and VinMart+, the two retail brands owned by Vingroup, a conglomerate with powerful financial capability, joined the technology race with VinMart Scan & Go, allowing customers to use Check-out Free.
+
+> Mới đây nhất, VinMart và VinMart+, hai thương hiệu bán lẻ thuộc sở hữu của Vingroup, tập đoàn có tiềm lực tài chính hùng mạnh, đã tham gia cuộc đua công nghệ với VinMart Scan & Go, cho phép khách hàng sử dụng Check-out Free.
 
 </p>
 </details>
