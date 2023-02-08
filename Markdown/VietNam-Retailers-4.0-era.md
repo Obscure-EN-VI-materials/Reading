@@ -31,6 +31,8 @@ VinID, the developer of the shopping technology, said Scan & Go is just the firs
 
 **Đáp án B**
 
+Theo nguồn [Vietnamnet](https://vietnamnet.vn/en/retailers-in-vietnam-gear-up-for-technology-race-in-40-era-E220901.html)
+
 </p>
 </details>
 
@@ -47,7 +49,10 @@ VinID, the developer of the shopping technology, said Scan & Go is just the firs
 <details><summary>Trả lời</summary>
 <p>
 
-TBD
+**Đáp án A**
+
+Câu đầu của đoạn 1:
+> Một nghiên cứu được thực hiện bởi Deloitte Consulting cho thấy 70% quyết định mua hàng được thực hiện tại các cửa hàng.
 
 </p>
 </details>
@@ -65,7 +70,10 @@ TBD
 <details><summary>Trả lời</summary>
 <p>
 
-TBD
+**Đáp án C**
+
+Câu 2 đoạn 2:
+> Khách hàng thích tiêu tiền, nhưng **họ** thấy việc xếp hàng thanh toán là một cơn ác mộng.
 
 </p>
 </details>
@@ -83,7 +91,9 @@ TBD
 <details><summary>Trả lời</summary>
 <p>
 
-TBD
+**Đáp án A**
+
+enterprises = companies: doanh nghiệp (theo từ điển Lạc Việt)
 
 </p>
 </details>
@@ -101,7 +111,9 @@ TBD
 <details><summary>Trả lời</summary>
 <p>
 
-TBD
+**Đáp án C**
+
+luring = tempting: dụ (khách hàng)
 
 </p>
 </details>
@@ -119,7 +131,7 @@ TBD
 <details><summary>Trả lời</summary>
 <p>
 
-TBD
+**Đáp án D**
 
 </p>
 </details>
@@ -137,7 +149,7 @@ TBD
 <details><summary>Trả lời</summary>
 <p>
 
-TBD
+**Đáp án B**
 
 </p>
 </details>
