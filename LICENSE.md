@@ -10,3 +10,4 @@ If the copyright is ambiguous, the material will fall under Fair Use:
 
 > If your copyrighted material appears on this repository and you disagree with our assessment that it constitutes "fair use", [create an issue](https://github.com/Obscure-EN-VI-materials/Reading/issues/new/choose) or [email us](mailto:phanhoang1366@gmail.com).
 
+We, as contributors, hold no copyright to the published documents here, which means you can do anything you want with them. However, If your purposes of using this material here go beyond "fair use," you must obtain permission from the copyright owner.
