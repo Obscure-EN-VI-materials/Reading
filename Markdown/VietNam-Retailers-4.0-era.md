@@ -18,13 +18,13 @@ VinID, the developer of the shopping technology, said Scan & Go is just the firs
 
 **Question 1**: Which best serves as the title for the passage?
 
-A. VinMart and VinMart plus: The two potential brands owned by Vingroup. 
+**A.** VinMart and VinMart plus: The two potential brands owned by Vingroup. 
 
-B. Retailers in Vietnam are ready for technology race in 4.0 era. 
+**B.** Retailers in Vietnam are ready for technology race in 4.0 era. 
 
-C. Scan & Go: The first feature of a chain of features to be developed by VinID.
+**C.** Scan & Go: The first feature of a chain of features to be developed by VinID.
 
-D. The Check-out Free technology market.
+**D.** The Check-out Free technology market.
 
 <details><summary>Trả lời</summary>
 <p>
@@ -33,3 +33,63 @@ D. The Check-out Free technology market.
 
 </p>
 </details>
+
+**Question 2**: In paragraph 1, the study was conducted in order to
+
+**A.** show that most of customers' buying decisions are made in stores
+
+**B.** indicate that almost customers plan to buy things before going shopping. 
+
+**C.** see if customers agree to pay online or not.
+
+**D.** mention the difference between traditional and modern retailers. 
+
+**Question 3**: The word **"they"** in paragraph 2 refers to
+
+**A.** goods
+
+**B.** retailers
+
+**C.** customers
+
+**D.** stores
+
+**Question 4**: The word **"enterprises"** in paragraph 3 is closest in meaning to 
+
+**A.** companies 
+
+**B.** technologies 
+
+**C.** offices 
+
+**D.** governments
+
+**Question 5**: The word **"luring"** in paragraph 5 (?) is closest in meaning to
+
+**A.** agreeing
+
+**B.** accepting
+
+**C.** tempting
+
+**D.** understanding
+
+**Question 6**: Which of the following is NOT true, according to the passage? 
+
+**A.** Retail chains in the world have applied high technologies for many years.
+
+**B.** Customers feel terrible to stand in a line, waiting for payment.
+
+**C.** Vinmart not only comes into an international version of Scan and Go but also fits Vietnamese comsumption habit.
+
+**D.** Ordering goods and door delivery are the shortcomings of the technology.
+
+**Question 7**: Which of the following can be inferred from paragraph 4?
+
+**A.** Scan and Go is owned by Vingroup.
+
+**B.** With the financial capacity, Vingroup has supported its two retail brands to integrate in technology race. 
+
+**C.** Check-out Free will be used soon in Vietnam.
+
+**D.** Vinmart and Vinmart Plus belong to Hoa Phat group.
