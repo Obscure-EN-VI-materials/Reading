@@ -10,6 +10,7 @@
 | **E**  Expecting a baby |
 | **F**  Energy as a key to life |
 | **G**  Reserves of fat |
+
 **ENERGY REQUIREMENTS**  
 As human being, we depend on energy in many ways.  
 1\.  \_\_\_\_B\_\_\_\_
