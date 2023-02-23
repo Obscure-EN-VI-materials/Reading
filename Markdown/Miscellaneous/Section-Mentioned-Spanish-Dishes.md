@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 ### Read the text, identify which section A-D each of the following is mentioned. Write ONE letter A-D in the corresponding numbered space provided. Each letter may be used more than once.
 
 ### Which dish

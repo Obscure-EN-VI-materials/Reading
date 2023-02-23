@@ -1,3 +1,6 @@
+---
+title-heading: false
+---
 
 ### Choose the most suitable heading from the box for each paragraph below. There is ONE EXTRA heading that you DO NOT need to use.  Write the correct letter (A- G) next to each paragraph (2-6).
 

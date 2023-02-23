@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 ### Read the passage and choose the most suitable heading for each paragraph (1 – 5) from the list of headings below. There are more headings than paragraphs so you will not use all of them.
 
 | List of headings |

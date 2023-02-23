@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 ### Read the following passage, then choose the best answer. Circle A, B, C, or D to indicate your answers.
 
 A study conducted by Deloitte Consulting showed that 70 percent of purchasing decisions are made in stores. Modern retailers, in order to lure buyers, have to pay attention to convenience and shopping experiences for customers.
