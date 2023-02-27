@@ -1,3 +1,3 @@
-url: "https://obscure-en-vi-materials.github.io/Reading" # the base hostname & protocol for your site
+url: "https://obscure-en-vi-materials.github.io" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
