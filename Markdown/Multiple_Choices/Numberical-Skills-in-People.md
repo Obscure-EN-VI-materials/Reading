@@ -16,6 +16,14 @@ C. read
 
 D. calculate
 
+<details><summary>Trả lời</summary>
+<p>
+
+**Đáp án D**
+
+</p>
+</details>
+
 **Question 2:** The word "**secluded**" in the reading passage is closest in meaning to:
 
 A. separated 
@@ -25,6 +33,18 @@ B. divided
 C. abandoned
 
 D. isolated
+
+<details><summary>Trả lời</summary>
+<p>
+
+**Đáp án A**
+
+Warning ⚠️: This answer is **unreliable**!
+
+Reason: Nếu dịch theo nghĩa, ta sẽ dễ dàng chọn được đáp án A. Nhưng nếu tra theo synonyms, đáp án D có khả năng đúng.
+
+</p>
+</details>
 
 **Question 3:** The phrase "**bumped into**" in the passage can best be replaced with:
 
@@ -36,6 +56,14 @@ C. came up to
 
 D. made up
 
+<details><summary>Trả lời</summary>
+<p>
+
+**Đáp án A**
+
+</p>
+</details>
+
 **Question 4:** According to the reading passage, all of the followings are true **EXCEPT**:
 
 A. the certain abilities of a person can be obtained naturally
@@ -45,3 +73,11 @@ B. children can learn some mathematical concepts by observing
 C. we were born with concepts of abstract numbers
 
 D. adults have different ideas on everything with children
+
+<details><summary>Trả lời</summary>
+<p>
+
+**Đáp án D**
+
+</p>
+</details>
