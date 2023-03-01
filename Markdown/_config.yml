@@ -1,3 +1,7 @@
 url: "https://obscure-en-vi-materials.github.io" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
+
+markdown: kramdown
+kramdown:
+  parse_block_html: true
