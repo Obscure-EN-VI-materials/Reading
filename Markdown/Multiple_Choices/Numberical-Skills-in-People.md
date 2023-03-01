@@ -17,11 +17,9 @@ C. read
 D. calculate
 
  <details><summary>Trả lời</summary>
-<p>
 
 **Đáp án D**
 
-</p>
 </details>
 
 **Question 2:** The word "**secluded**" in the reading passage is closest in meaning to:
