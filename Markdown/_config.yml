@@ -3,5 +3,3 @@ plugins:
   - jekyll-sitemap
 
 markdown: kramdown
-kramdown:
-  parse_block_html: true
