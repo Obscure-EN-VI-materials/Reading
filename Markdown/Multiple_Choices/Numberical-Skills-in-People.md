@@ -16,7 +16,8 @@ C. read
 
 D. calculate
 
- <details><summary>Trả lời</summary>
+<details>
+<summary>Trả lời</summary>
 
 **Đáp án D**
 
