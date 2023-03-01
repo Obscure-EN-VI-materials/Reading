@@ -24,3 +24,200 @@ typing message to another person over the Internet.
 All of the examples given are very basic, and the Internet will continue to influence the English
 language. The question that will (9)__________ is whether or not people will be able to
 (10)____________ the changes as they take place.
+
+Question 1:
+
+A. existence
+
+B. presence
+
+C. survival
+
+D. effect
+
+<details><summary>Trả lời</summary>
+<p>
+
+**Đáp án A**
+
+“In existence”: (sự) tồn tại.
+
+</p>
+</details>
+
+Question 2:
+
+A. have
+
+B. get
+
+C. bring
+
+D. make
+
+<details><summary>Trả lời</summary>
+<p>
+
+**Đáp án D**
+
+“Make sense”: có nghĩa, có ý nghĩa.
+
+</p>
+</details>
+
+
+Question 3:
+
+A. along
+
+B. across
+
+C. between
+
+D. by
+
+<details><summary>Trả lời</summary>
+<p>
+
+**Đáp án B**
+
+“Come across”: tình cờ tìm thấy. Các đáp án còn lại không phù hợp về nghĩa.
+
+</p>
+</details>
+
+Question 4:
+
+A. step
+
+B. pace
+
+C. move
+
+D. movement
+
+<details><summary>Trả lời</summary>
+<p>
+
+**Đáp án B**
+
+“Pace”: nhịp độ, tiến triển => “at a faster pace”: với tốc độ/nhịp độ nhanh hơn.
+
+</p>
+</details>
+
+Question 5:
+
+A. keeping
+
+B. putting
+
+C. getting
+
+D. making
+
+<details><summary>Trả lời</summary>
+<p>
+
+**Đáp án C**
+
+“Get something across”: giải thích rõ ràng cái gì/điều gì.
+
+</p>
+</details>
+
+Question 6.
+
+A. inclusively
+
+B. exclusively
+
+C. availably
+
+D. extensively
+
+<details><summary>Trả lời</summary>
+<p>
+
+**Đáp án D**
+
+</p>
+</details>
+
+Question 7.
+
+A. run
+
+B. operate
+
+C. flow
+
+D. show
+
+<details><summary>Trả lời</summary>
+<p>
+
+**Đáp án ??**
+
+Đáp án A sai, mặc dù có cụm "run a query" 
+
+</p>
+</details>
+
+Question 8.
+
+A. someone
+
+B. everyone
+
+C. anyone
+
+D. no one
+
+<details><summary>Trả lời</summary>
+<p>
+
+**Đáp án ??**
+
+"No one" có vẻ đúng hơn, nhưng bị coi là sai...
+
+</p>
+</details>
+
+Question 9.
+
+A. exist
+
+B. see
+
+C. remain
+
+D. stand
+
+<details><summary>Trả lời</summary>
+<p>
+
+**Đáp án ??**
+
+C sai.
+
+</p>
+</details>
+
+Question 10.
+
+A. change with
+
+B. move with
+
+C. keep up with 
+
+D. keep in touch with
+
+<details><summary>Trả lời</summary>
+<p>
+
+**Đáp án C**
+
+</p>
+</details>

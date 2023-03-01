@@ -6,102 +6,184 @@ Whether it's awe, fear, or simply fascination, people love things that are big. 
 
 At the same time, today's measurements can be used to show how living species have changed in response to hunting, fishing, and other human impacts. "If you look at historical records for some of these animals, like manta rays and whale sharks, you'll see that they used to be significantly larger than the ones we see presently in our oceans," says Andrea Marshall, a National Geographic Society explorer. And according to her, this means that "we've fished out all of the largest, oldest, and most mature of them." And that, in turns, means conservationists have some serious work to do to restore species back to their original state. All of this is very important because being big is not always a boon for these animals. Take the alligator gar, a freshwater fish that can grow longer than eight feet and weigh more than 300 pounds. "Once they reach a certain size, there are very few predators that can eat them," says Solomon David, an aquatic ecologist at Nicholls State University in Louisiana. But even a full-grown alligator gar is no match for a human. David says far too many of the impressive fish are now being killed for entertainment or as trophies, and this has negative consequences for this rare and threatened species.
 
-Question 1: Which best serves as the title for the passage?
+**Question 1**: Which best serves as the title for the passage?
 
-A. Why are people always so interested in the biggest animals?
+**A.** Why are people always so interested in the biggest animals?
 
-B. The fascinating things huge animals can tell us about the past
+**B.** The fascinating things huge animals can tell us about the past
 
-C. How scientists and conservationists are protecting giant species?
+**C.** How scientists and conservationists are protecting giant species?
 
-D. What can the world's most gigantic animals teach scientist?
+**D.** What can the world's most gigantic animals teach scientist?
 
-Question 2: According to paragraph 2, why is the information gathered from tracking Deep Blue is important for great white sharks?
+<details><summary>Trả lời</summary>
+<p>
 
-A. Because it helps scientists predict where great white sharks will mate.
+**Đáp án D**
 
-B. Because it shows exactly how people should protect great white sharks.
+</p>
+</details>
 
-C. Because it gives people information on where great whites gestate and where they give birth.
+**Question 2**: According to paragraph 2, why is the information gathered from tracking Deep Blue is important for great white sharks?
 
-D. Because it provides data helping scientists to find ways to increase the number of great whites. 
+**A.** Because it helps scientists predict where great white sharks will mate.
 
-Question 3: The word "them" in paragraph 4 refers to
+**B.** Because it shows exactly how people should protect great white sharks.
 
-A. impacts
+**C.** Because it gives people information on where great whites gestate and where they give birth.
 
-B. records
+**D.** Because it provides data helping scientists to find ways to increase the number of great whites. 
 
-C. animals
+<details><summary>Trả lời</summary>
+<p>
 
-D. oceans
+**Đáp án D**
 
-Question 4: In paragraph 3, we learn that
+</p>
+</details>
 
-A. some species like manta rays are decreasing in size every single year.
+**Question 3**: The word "them" in paragraph 4 refers to
 
-B. the largest individuals of some species have died out because of humans.
+**A.** impacts
 
-C. fishing is the main reason why animals are not as big as they are in the past. 
+**B.** records
 
-D. ocean species in the present world are becoming much smaller than ever before.
+**C.** animals
 
-Question 5: The word "boon" in paragraph 4 is closest meaning to
+**D.** oceans
 
-A. Pleasure 
+<details><summary>Trả lời</summary>
+<p>
 
-B. advantage
+**Đáp án C**
 
-C. luxury
+</p>
+</details>
 
-D. favour
+**Question 4**: In paragraph 3, we learn that
 
-Question 6: Which of the following is NOT TRUE according to the passage?
+**A.** some species like manta rays are decreasing in size every single year.
 
-A. People are always very interested in Deep Blue because it is the biggest shark in history.
+**B.** the largest individuals of some species have died out because of humans.
 
-B. Measurements and records showed that it would not be easy for people to restore species. 
+**C.** fishing is the main reason why animals are not as big as they are in the past. 
 
-C. It is almost impossible for predators to hunt the alligator gar once they have fully grown.
+**D.** ocean species in the present world are becoming much smaller than ever before.
 
-D. The Super Croc's diet can be predicted by studying the diet of today's biggest crocodiles. 
+<details><summary>Trả lời</summary>
+<p>
 
-Question 7: The word "worthwhile" in paragraph 5 can be best replaced by
+**Đáp án B**
 
-A. constructive 
+Warning ⚠️: This answer is **unreliable**!
 
-B. valuable
+</p>
+</details>
 
-C. lucrative
+**Question 5**: The word "boon" in paragraph 4 is closest meaning to
 
-D. reassuring 
+**A.** Pleasure 
 
-Question 8: Which of the following can be inferred from the passage?
+**B.** advantage
 
-A. Most people do not agree with the viewpoint that large animals can have scientific value.
+**C.** luxury
 
-B. The best way to help species return to their original state is to completely ban fishing. 
+**D.** favour
 
-C. The alligator gar is being hunted more and more because people know how rare they are. 
+<details><summary>Trả lời</summary>
+<p>
 
-D. Examining the biggest animals of today may help us learn more about their ancestors. 
+**Đáp án B**
 
-Question 9: The word "gestate" in paragraph 2 can be best replaced by
+</p>
+</details>
 
-A. capture
+**Question 6**: Which of the following is NOT TRUE according to the passage?
 
-B. carry
+**A.** People are always very interested in Deep Blue because it is the biggest shark in history.
 
-C. conduct
+**B.** Measurements and records showed that it would not be easy for people to restore species. 
 
-D. control
+**C.** It is almost impossible for predators to hunt the alligator gar once they have fully grown.
 
-Question 10: Alligator gar is mentioned to illustrate
+**D.** The Super Croc's diet can be predicted by studying the diet of today's biggest crocodiles. 
 
-A. No matter how large the animals are, they can be killed by humans.
+<details><summary>Trả lời</summary>
+<p>
 
-B. People are interested in hunting big preys. 
+**Đáp án A**
 
-C. They easily become preys of other predators. 
+</p>
+</details>
 
-D. Fresh water fish can reach the largest size.
+**Question 7**: The word "worthwhile" in paragraph 5 can be best replaced by
+
+**A.** constructive 
+
+**B.** valuable
+
+**C.** lucrative
+
+**D.** reassuring 
+
+<details><summary>Trả lời</summary>
+<p>
+
+**Đáp án B**
+
+</p>
+</details>
+
+**Question 8**: Which of the following can be inferred from the passage?
+
+**A.** Most people do not agree with the viewpoint that large animals can have scientific value.
+
+**B.** The best way to help species return to their original state is to completely ban fishing. 
+
+**C.** The alligator gar is being hunted more and more because people know how rare they are. 
+
+**D.** Examining the biggest animals of today may help us learn more about their ancestors. 
+
+<details><summary>Trả lời</summary>
+<p>
+
+**Đáp án D**
+
+</p>
+</details>
+
+**Question 9**: The word "gestate" in paragraph 2 can be best replaced by
+
+**A.** capture
+
+**B.** carry
+
+**C.** conduct
+
+**D.** control
+
+<details><summary>Trả lời</summary>
+<p>
+
+**Đáp án B**
+
+</p>
+</details>
+
+**Question 10**: Alligator gar is mentioned to illustrate
+
+**A.** No matter how large the animals are, they can be killed by humans.
+
+**B.** People are interested in hunting big preys. 
+
+**C.** They easily become preys of other predators. 
+
+**D.** Fresh water fish can reach the largest size.
+
+<details><summary>Trả lời</summary>
+<p>
+
+**Đáp án A**
+
+</p>
+</details>
