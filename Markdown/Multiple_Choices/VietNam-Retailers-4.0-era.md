@@ -26,7 +26,7 @@ VinID, the developer of the shopping technology, said Scan & Go is just the firs
 
 **D.** The Check-out Free technology market.
 
-<details><summary>Trả lời</summary>
+<details markdown="1"><summary>Trả lời</summary>
 <p>
 
 **Đáp án B**
@@ -46,7 +46,7 @@ Theo nguồn [Vietnamnet](https://vietnamnet.vn/en/retailers-in-vietnam-gear-up-
 
 **D.** mention the difference between traditional and modern retailers. 
 
-<details><summary>Trả lời</summary>
+<details markdown="1"><summary>Trả lời</summary>
 <p>
 
 **Đáp án A**
@@ -69,7 +69,7 @@ Câu đầu của đoạn 1:
 
 **D.** stores
 
-<details><summary>Trả lời</summary>
+<details markdown="1"><summary>Trả lời</summary>
 <p>
 
 **Đáp án C**
@@ -94,7 +94,7 @@ Họ ở đây là khách hàng.
 
 **D.** governments
 
-<details><summary>Trả lời</summary>
+<details markdown="1"><summary>Trả lời</summary>
 <p>
 
 **Đáp án A**
@@ -114,7 +114,7 @@ enterprises = companies: doanh nghiệp (theo từ điển Lạc Việt)
 
 **D.** understanding
 
-<details><summary>Trả lời</summary>
+<details markdown="1"><summary>Trả lời</summary>
 <p>
 
 **Đáp án C**
@@ -134,7 +134,7 @@ luring = tempting: dụ (khách hàng)
 
 **D.** Ordering goods and door delivery are the shortcomings of the technology.
 
-<details><summary>Trả lời</summary>
+<details markdown="1"><summary>Trả lời</summary>
 <p>
 
 **Đáp án D**
@@ -159,7 +159,7 @@ Câu D nói rằng: `Đặt hàng và giao hàng tận nơi là những bất c�
 
 **D.** Vinmart and Vinmart Plus belong to Hoa Phat group.
 
-<details><summary>Trả lời</summary>
+<details markdown="1"><summary>Trả lời</summary>
 <p>
 
 **Đáp án B**
