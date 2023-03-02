@@ -26,14 +26,12 @@ VinID, the developer of the shopping technology, said Scan & Go is just the firs
 
 **D.** The Check-out Free technology market.
 
-<details markdown="1"><summary>Trả lời</summary>
-<p>
+<details markdown=1><summary markdown="span">Trả lời</summary>
 
 **Đáp án B**
 
 Theo nguồn [Vietnamnet](https://vietnamnet.vn/en/retailers-in-vietnam-gear-up-for-technology-race-in-40-era-E220901.html)
 
-</p>
 </details>
 
 **Question 2**: In paragraph 1, the study was conducted in order to
@@ -46,8 +44,7 @@ Theo nguồn [Vietnamnet](https://vietnamnet.vn/en/retailers-in-vietnam-gear-up-
 
 **D.** mention the difference between traditional and modern retailers. 
 
-<details markdown="1"><summary>Trả lời</summary>
-<p>
+<details markdown=1><summary markdown="span">Trả lời</summary>
 
 **Đáp án A**
 
@@ -56,7 +53,6 @@ Câu đầu của đoạn 1:
 
 > A study conducted by Deloitte Consulting showed that 70 percent of purchasing decisions are made in stores.
 
-</p>
 </details>
 
 **Question 3**: The word **"they"** in paragraph 2 refers to
